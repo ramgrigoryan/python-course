@@ -1,0 +1,2 @@
+def printFriend():
+    print('Friend')
